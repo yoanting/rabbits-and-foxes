@@ -1,5 +1,7 @@
 # rabbits-and-foxes
 
-This is the first assignment, to solve the differential equations for the rabbits and foxes problem.
+This was the first assignment, to solve the differential equations for the rabbits and foxes problem.
 
-You are on the master branch.
+It is also a second assignment, to simulate it using Kinetic Monte Carlo.
+
+You are on the kmc branch.
